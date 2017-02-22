@@ -1,0 +1,52 @@
+h1{
+    text-align:center;
+    
+}
+h1, p{
+    font-family:georgia;
+    color:white;
+} 
+h2 {
+    color:white;
+    padding:15px;
+}
+body{
+    background-color:#444444;
+   
+}
+nav {
+    text-align:center;
+    padding:5px;
+    margin:20px;
+}
+body {
+    border:2px solid grey;
+    padding:40px;
+}
+main{
+    border:border top style;
+    border-top:2px solid grey;
+    border-bottom:2px solid grey;
+    margin:30px;
+}
+img{
+    border:1px solid grey;
+    padding:10px;
+    float:right;
+    margin:10px;
+    width:45%;
+    
+    
+    
+}
+a{
+    color:#66CD9B;
+}
+footer{
+    text-align:center;
+    padding:20px;
+    margin:15px;
+}
+footer, a{
+    margin:3px;
+}
